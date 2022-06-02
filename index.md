@@ -19,12 +19,12 @@ Qualified Remedial Massage Therapist, Ellen Ribeiro specialises in:
 -	Lymphatic Massage
 -	Myofascial Release
 -	Pregnancy and post-partum Massage
--	Remedial Massage ^*^
+-	Remedial Massage *
 -	Sports Massage
 -	Swedish Massage (Relaxation Massage)
 -	Trigger Point Release
 -	Brazilian sculpt massage
 
 
-^*^ Health Fund Rebates available
+* Health Fund Rebates available
 
