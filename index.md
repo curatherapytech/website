@@ -13,6 +13,7 @@ With a holistic approach and can offer education in a range of life skills and a
 Wishing you all the best in health and wellbeing, 
 Ellen Ribeiro
 
+[![Book Now](assets/booknow.png)](https://squareup.com/appointments/book/svcrrzmr2kv4gi/LG09BH2D0Z83P/start)
 
 Qualified Remedial Massage Therapist, Ellen Ribeiro specialises in:
 -	Deep Tissue Manipulation
