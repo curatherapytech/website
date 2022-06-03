@@ -5,8 +5,10 @@ author_profile: true
 # ENJOY TIME FOR YOURSELF AT CURA THERAPY MASSAGE
 
 Looking after both the physical and mental health of my clients has always been a priority. 
+
 Thankfully, allied health professionals providing services to improve both physical and mental health are currently deemed essential businesses. Please be assured the most stringent hygiene practices are used within our clinic.
 Whether to treat a specific ailment, for maintenance, or wanted a time for yourself in order to reset and refresh. You will feel lighter, more peaceful and at ease, following a treatment at Cura Therapy Massage.
+
 From the gentle, calming aroma of essential oils to the fine attention to detail and relaxation is on show from the moment you enter in our clinic. 
 With a holistic approach and can offer education in a range of life skills and areas to help you live your best life. 
 
