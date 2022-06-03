@@ -4,8 +4,8 @@ main:
     url: /types-of-massage/
   - title: "Benefits of massage"
     url: /remedial-massage-benefits/
-   - title: "Locations"
-     url: /remedial-massage-locations/
+  - title: "Locations"
+    url: /remedial-massage-locations/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
