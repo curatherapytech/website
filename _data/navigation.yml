@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Types of massage"
+    url: /types-of-massage/
+  - title: "Remedial massage benefits"
+    url: /remedial-massage-benefits/
+   - title: "Locations"
+     url: /remedial-massage-locations/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
