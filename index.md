@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 author_profile: true
 ---
 # ENJOY TIME FOR YOURSELF AT CURA THERAPY MASSAGE
