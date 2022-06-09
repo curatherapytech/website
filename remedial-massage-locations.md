@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 ---
-# LOCATIONS
+# LOCATION
 Cura Therapy Massage provides the services to patients in, Baulkham Hills, Castle Hill, Pennant Hills, Winston Hills, Norwest, Bella Vista and Kellyville.
 
 # CONTACT
