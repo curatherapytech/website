@@ -1,17 +1,18 @@
 ---
-layout: home
+layout: single
 author_profile: true
 ---
 # TYPE OF MASSAGE SERVICES
+
+### REMEDIAL MASSAGE
+Remedial Massage aims to provide relief pain/tension from muscle and joints, soreness and stiffness caused by injury. It can help reduce cell damage and scar tissue, restore normal joint movement and function by improving blood flow which increases oxygenation and promotes healing.
+
 ### SWEDISH MASSAGE (RELAXATION MASSAGE)
-It is a gentler and more relaxing technique than remedial or therapeutic massage. Swedish massage may incorporate kneading, tapping, effleurage, friction, and vibration. 
+A gentler and more relaxing technique than remedial massage. Swedish massage may incorporate kneading, tapping, effleurage, friction, and vibration. 
 Swedish Massage has many benefits and to name a few, it reduces nerve hyperactivity, helps with relief of insomnia, it’s ideal for relieving stress, anxiety, and depression. It is suitable for all age groups, men, women and children.
 
 ### SPORTS MASSAGE
-Sports Massage is an intense form of massage that helps prevent musculoskeletal injuries for anyone who exercises, from the casual competitor to the professional athlete. In addition to treating injuries and relieving pain and swelling this massage improves recovery time by increasing blood flow to the muscles and increasing oxygenation.  Injuries to the hamstring, quads, tears and sacroiliac joint injury respond very well to Sports Massage techniques, as it improves the range of motion and boosting muscle metabolism. 
-
-### REMEDIAL MASSAGE
-Remedial Massage aims to provide relief pain/tension from muscle and joints, soreness, and stiffness caused by injury. It can help reduce cell damage and scar tissue, restore normal joint movement and function by improving blood flow which increases oxygenation and promotes healing.
+Sports Massage is an intense form of massage that helps prevent musculoskeletal injuries for anyone who exercises, from the casual competitor to the professional athlete. In addition to treating injuries and relieving pain and swelling this massage improves recovery time by increasing blood flow to the muscles and increasing oxygenation.  Injuries to the hamstring, quads, muscle tears and sacroiliac joint injury respond very well to Sports Massage techniques, as it improves the range of motion and boosting muscle metabolism. 
 
 ### TRIGGER POINT RELEASE
 Trigger Point Therapy is a form of Remedial Massage Therapy in which direct pressure is applied to specified points on tender muscle tissue to bring about a reduction in muscle tension and pain relief.

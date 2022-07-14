@@ -1,16 +1,16 @@
 ---
-layout: home
+layout: single
 author_profile: true
 ---
 # MASSAGE BENEFITS
 
 There may have been a time when massage was considered a luxury, but today it has become an integral component of physical and mental wellness, as well as a powerful healing tool. 
-Every patient is unique and in need of different support when requests a massage. The massagist usually provides manipulation of the soft tissues of the body, including muscle structures, fascia, connective tissue, ligaments, and tendons. 
-Clients who received massage reported improvements on their health, such as the ones below:
+Every patient is unique and in need of different support when they request a massage. The massagist provides manipulation of the soft tissues of the body, including muscle structures, fascia, connective tissue, ligaments and tendons. 
+Clients who have received remedial massage have often reported improvements in their health, such as the following:
 
-### Increased or improved
+### Increased or Improved
  
--	Calms the sympathetic nervous system
+-	Calming of the sympathetic nervous system
 -	Circulation
 -	Concentration and mindfulness
 -	Digestion
@@ -22,29 +22,24 @@ Clients who received massage reported improvements on their health, such as the 
 -	Production and release of endorphins
 -	Range of motion
 -	Sense of emotional and physical balance
--	Sense of overall well-being
--	Sharper concentration
+-	Sense of overall wellbeing
 -	Sleep
+ 
+### Decreased or Reduction
 
- 
-### Reduction
- 
 -	Anxiety and depression
--	Cancer and strokes symptoms
+-	Cancer and stroke symptoms
 -	Chronic fatigue
 -	Fractures and edema
 -	Headaches
 -	Insomnia
--	Muscle tension and spasm
+-	Muscle tension and spasms
 -	Pain
--	Releases toxins
+-	Release of toxins
 -	Sports injuries
 -	Stress
 -	Swelling
- 
-
-
 
 # WHAT TO EXPECT DURING YOUR TREATMENT?
 
-Upon your visit, you will be asked a series of specific questions relating to your overall medical/health history to best understand your concerns. An overall movement and body assessment will be carried out by your practitioner, in which a tailored treatment plan will then be created for you. 
+Upon your visit with me, you will be asked a series of specific questions relating to your overall health and medical history to best understand your issues. An overall movement and body assessment will be carried out, then a tailored treatment plan will then be created for you. 
